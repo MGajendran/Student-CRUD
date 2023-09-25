@@ -1,12 +1,12 @@
 # Student-CRUD
 
-This is a simple Java application for managing student records. It allows you to perform basic CRUD operations (Create, Read, Update, Delete) on student information.
+This is a Java application for managing student records. It allows you to perform CRUD operations (Create, Read, Update, Delete) on student information.
 
-* Create Student Records: Add new students to the system by providing their name, age, and enrollment date.
+* Create Student Records: Add new students to the system by providing their name, age, and subject.
 
 * Read Student Records: View a list of all students and their details.
 
-* Update Student Records: Edit existing student information, including their name, age, and enrollment date.
+* Update Student Records: Edit existing student information, including their name, age, and subject.
 
 * Delete Student Records: Remove students from the system.
 

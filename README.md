@@ -59,10 +59,11 @@ Follow these instructions to set up and run the Student CRUD application on your
    
     Save the changes.
 
-
 7. Delete Student Records:
    
     Select the student to be removed and pass the id to the API.
+
+# NOTE: Sample images for the output from the postman is uploaded in the project directory for reference. 
 
 
   

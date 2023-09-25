@@ -48,15 +48,20 @@ Follow these instructions to set up and run the Student CRUD application on your
     Save the student's information.
    
 3. Read Student Records:
-    View a list of all students and their details.
-    View a student information by passing his id. 
+
+   View a list of all students and their details.
    
-4. Update Student Records:
+   View a student information by passing his id. 
+   
+5. Update Student Records:
+   
     Edit the student information (firstName, lastName, age, and subjects).
+   
     Save the changes.
 
 
-5. Delete Student Records:
+7. Delete Student Records:
+   
     Select the student to be removed and pass the id to the API.
 
 
